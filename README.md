@@ -16,6 +16,9 @@ Currently, I'm focused on strengthening my problem-solving skills and working to
 * 🏆 Regularly participate in **Programming Contests**
 * 🚀 Continuously improving my problem-solving skills
 * 🎯 Goal: **Become a Software Engineer**
+* <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullahalmaruf2005&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
