@@ -101,7 +101,7 @@ Currently, I'm focused on strengthening my problem-solving skills and working to
 
 <p align="center">
   <a href="https://codeforces.com/profile/A.A.Maruf">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=A.A.Marf" alt="Codeforces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=A.A.Maruf" alt="Codeforces Stats" />
   </a>
 </p>
 
