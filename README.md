@@ -125,7 +125,7 @@ Currently, I'm focused on strengthening my problem-solving skills and working to
   </a>
 </p>
 
-**Rating:** `1401`
+**Rating:** `1401 `
 
 ---
 
