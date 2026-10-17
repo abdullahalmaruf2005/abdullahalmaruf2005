@@ -88,7 +88,8 @@ Currently, I'm focused on strengthening my problem-solving skills and working to
 
 | Competition / Event                         | Organizer / Platform                       | Team / Category | Achievement       | Date         |
 | :------------------------------------------ | :----------------------------------------- | :-------------- | :---------------- | :----------- |
-| **BU Intra University Programming Contest** | CSE, University of Barishal                | Individual      | 🏅 **10 th Rank** | Feb 13, 2026 |
+| **South Zone ProgrammingContest 2026**      | University of Global Village               | BU_Decimals     | 🏅 **2ndth Rank** | Aug 29, 2026 |
+| **BU Intra University Programming Contest** | University of Barishal                     | Individual      | 🏅 **10 th Rank** | Feb 13, 2026 |
 | **NDUB IUPC 2026**                          | Notre Dame University Bangladesh           | BU_Decimals     | 🎯 **54th Rank**  | May 12, 2026 |
 | **NSU IUPC 2026**                           | North South University                     | BU_Decimals     | 🚀 **101st Rank** | Jun 15, 2026 |
 | **PSTU IUPC 2026**                          | Patuakhali Science & Technology University | BU_Decimals     | 🏅 **9th Rank**   | Aug 29, 2026 |
